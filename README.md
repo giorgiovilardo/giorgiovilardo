@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm Giorgio!
 
-<!--
-**giorgiovilardo/giorgiovilardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at [Claranet Italy](https://www.claranet.it/) as a software developer.
 
-Here are some ideas to get you started:
+I'm a parseltongue as I mainly speak Python :) but I'm trying to expand my knowledge towards functional languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Want-to-read/learn/do list of 2021, in random order
+
+- [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
+- [ ] SICP
+- [ ] Little Schemer
+- [ ] [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+- [ ] Probably something about F# (TBD)
+- [ ] Probably something about Elixir (TBD)
+- [ ] Join/start a technical book club (very farfeteched)
