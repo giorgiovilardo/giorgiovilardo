@@ -16,7 +16,7 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 - [ ] Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
 - [ ] SICP
 - [ ] The Little Schemer
-- [ ] [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
+- [ ] [Functional Programming in OCaml 2020 edition](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
 - [ ] Probably something about F# (TBD)
 - [ ] Probably something about Elixir (TBD)
 
