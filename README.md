@@ -7,6 +7,7 @@ I'm a parseltongue as I mainly speak Python :) but I'm trying to expand my knowl
 ### Want-to-read/learn/do list of 2021, in random order
 
 - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
+- [ ] Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
 - [ ] SICP
 - [ ] The Little Schemer
 - [ ] [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
