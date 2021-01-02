@@ -10,6 +10,8 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 
 ### Continuous learning list of 2021, in random order and to be expanded
 
+#### Probable
+
 - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 - [ ] Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
 - [ ] SICP
@@ -17,5 +19,9 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 - [ ] [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 - [ ] Probably something about F# (TBD)
 - [ ] Probably something about Elixir (TBD)
+
+#### Unprobable
+
+- [ ] [Learn something about Purescript](https://book.purescript.org/index.html)
 - [ ] Join/start a technical book club (very farfeteched)
 - [ ] Learn spanish (straight outta 2019's good intention. and this year even more farfetched than book club)
