@@ -8,8 +8,9 @@ I'm a parseltongue as I mainly speak Python :) but I'm trying to expand my knowl
 
 - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 - [ ] SICP
-- [ ] Little Schemer
+- [ ] The Little Schemer
 - [ ] [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 - [ ] Probably something about F# (TBD)
 - [ ] Probably something about Elixir (TBD)
 - [ ] Join/start a technical book club (very farfeteched)
+- [ ] Learn spanish (straight outta 2019's good intention. and this year even more farfetched than book club)
