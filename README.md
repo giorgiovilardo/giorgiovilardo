@@ -4,7 +4,11 @@ I work at [Claranet Italy](https://www.claranet.it/) as a software developer.
 
 I'm a parseltongue as I mainly speak Python :) but I'm trying to expand my knowledge towards functional languages.
 
-### Want-to-read/learn/do list of 2021, in random order
+Below you'll find my "study plan" for technical activities in 2021.
+Feel free to suggest me stuff to read and learn about.
+Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions), hit me with a PR, or contact me (you know how, since I'm probably the only one reading this).
+
+### Continuous learning list of 2021, in random order and to be expanded
 
 - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 - [ ] Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
