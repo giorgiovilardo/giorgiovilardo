@@ -20,7 +20,7 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 - [ ] Probably something about F# (TBD)
 - [ ] Probably something about Elixir (TBD)
 
-#### Unprobable
+#### Improbable
 
 - [ ] [Learn something about Purescript](https://book.purescript.org/index.html)
 - [ ] Join/start a technical book club (very farfeteched)
