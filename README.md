@@ -19,6 +19,7 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 - [ ] [Functional Programming in OCaml 2020 edition](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
 - [ ] Probably something about F# (TBD)
 - [ ] Probably something about Elixir (TBD)
+- [ ] https://github.com/trekhleb/javascript-algorithms
 
 #### Improbable
 
