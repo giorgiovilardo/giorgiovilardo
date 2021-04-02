@@ -13,9 +13,7 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 #### Probable
 
 - [x] Probably something about F# (done: the great "F# from the ground up", pretty useful as a first foray into the lang)
-
 - [ ] (in progress) Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
-
 - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 - [ ] SICP
 - [ ] The Little Schemer
