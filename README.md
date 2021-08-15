@@ -10,7 +10,11 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 
 ### Continuous learning list of 2021, in random order and to be expanded
 
-#### Probable
+#### Sure
+
+- [x] Produce an heir
+
+#### Improbable
 
 - [x] Probably something about F# (done: the great "F# from the ground up", pretty useful as a first foray into the lang)
 - [ ] (in progress) Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
@@ -20,7 +24,7 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 - [ ] [Functional Programming in OCaml 2020 edition](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
 - [ ] https://github.com/trekhleb/javascript-algorithms
 
-#### Improbable
+#### Impossible
 
 - [ ] [Learn something about Purescript](https://book.purescript.org/index.html)
 - [ ] Join/start a technical book club (very farfeteched)
