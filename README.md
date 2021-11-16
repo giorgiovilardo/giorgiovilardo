@@ -14,12 +14,13 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 
 - [x] Produce an heir
 - [x] Partecipate in the F# mentorship program 
-- [o] Read `Domain Modeling Made Functional` 
+- [x] Read `Domain Modeling Made Functional` (cheat: didn't actually properly finished it, but it's good as done)
+- [ ] Partecipate at Scott Wlaschin's workshop (fuck yes) (waiting for it!!)  
 
 #### Improbable
 
 - [x] Probably something about F# (done: the great "F# from the ground up", pretty useful as a first foray into the lang)
-- [ ] (in progress) Finish, if possible due to knowledge, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
+- [x] Finish, Agile Technical Practices Distilled: A Journey Toward Mastering Software Design
 - [ ] [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/)
 - [ ] [Functional Programming in OCaml 2020 edition](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/)
 
