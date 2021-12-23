@@ -17,6 +17,7 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 - [ ] Databases deep dive, mainly Postgresql?
 - [ ] Video technologies (codecs, ffmpeg, ffmpeg + custom software, HLS, video streaming, and so on)?
 - [ ] Go deeper in .NET? Hard without examples of best practices and without working on it
+- [ ] node? maybe it's time!
 - [ ] Soul search for something that exploits my strengths (dev advocacy?)
 
 ### Continuous learning list of 2021, in random order and to be expanded
