@@ -2,7 +2,7 @@ Hi, I'm Giorgio!
 
 I work at ~~[Claranet Italy](https://www.claranet.it/)~~ as a software engineer.
 
-I like Python (I'm a fluent parseltongue), functional languages, building things and I'm at my best when I make other do their job better.
+I like Python (I'm a fluent parseltongue), functional languages, building things and I'm at my best when I enable others in doing their job better.
 
 Find me on twitter at [@gviwastaken](https://www.twitter.com/gviwastaken).
 
