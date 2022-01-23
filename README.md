@@ -13,13 +13,3 @@ Open a [discussion](https://github.com/giorgiovilardo/giorgiovilardo/discussions
 ### Learning list 2022
 
 [Moved to here!](https://giorgiovilardo.notion.site/Learning-List-2022-cd167297a89d4343bedc8b13d13c6e5f)
-
-### Tentative learning list of 2022 (still need to move stuff over to Notion)
-
-- [ ] Keep up with functional stuff (F#, Haskell/Purescript/w.e., Elixir, SICP, FP in OCaml and so on)
-- [ ] Event driven thingies, event sourcing, experiment with these kind of things?
-- [ ] Databases deep dive, mainly Postgresql?
-- [ ] Video technologies (codecs, ffmpeg, ffmpeg + custom software, HLS, video streaming, and so on)?
-- [ ] Go deeper in .NET? Hard without examples of best practices and without working on it
-- [ ] node? maybe it's time!
-- [ ] Soul search for something that exploits my strengths (dev advocacy?)
