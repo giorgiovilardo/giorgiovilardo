@@ -1,6 +1,6 @@
 Hi, I'm Giorgio!
 
-I work at ~~[Claranet Italy](https://www.claranet.it/)~~ as a software engineer.
+I work at [Maieutical Labs](https://maieuticallabs.it/) as a software engineer. We produce some very cool EdTech apps (with a real team of scientists behind) for middle and high school students!
 
 I like Python (I'm a fluent parseltongue), functional languages, building things and I'm at my best when I enable others in doing their job better.
 
