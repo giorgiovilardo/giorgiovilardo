@@ -1,6 +1,6 @@
 Hi, I'm Giorgio!
 
-I work at [Maieutical Labs](https://maieuticallabs.it/) as a software engineer. We produce some very cool EdTech apps (with a real team of scientists behind) for middle and high school students!
+I work at [Casavo](https://www.casavo.it/) as a software engineer. We're out to revolutionize, disrupt and modernize the housing market!
 
 I like Python (I'm a fluent parseltongue), functional languages, building things and I'm at my best when I enable others in doing their job better.
 
